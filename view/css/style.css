@@ -6,10 +6,6 @@ body{
     box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
     background-color: #ffff;
-<<<<<<< HEAD
-=======
-    overflow-x: hidden;
->>>>>>> 4ca5bb38360096f6695672ca70d3707eb34f9d5d
 }
 a{
     text-decoration: none;
